@@ -10,4 +10,4 @@ import { OrderRowModule } from './order-row/order-row.module';
   controllers: [],
   providers: [],
 })
-export class AppModule {}
+export class AppModule {} 
